@@ -7,7 +7,7 @@
   },
   "synoinfo": {
     "supportsystemperature": "no",
-    "supportsystempwarning": "no",
+    "supportsystempwarning": "no"
   },
   "ramdisk_copy": {},
   "extensions": []
